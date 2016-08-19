@@ -1,0 +1,8 @@
+.idea
+node_modules
+build
+release
+build-requirejs
+config.js
+app/scripts/config/config.js
+npm-debug.log

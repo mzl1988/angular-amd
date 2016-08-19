@@ -1,0 +1,22 @@
+{
+  "name": "angular-amd",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Michael.li",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp build -P",
+    "test": "gulp test"
+  },
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rev-all": "^0.8.24",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "requirejs": "^2.2.0"
+  }
+}
